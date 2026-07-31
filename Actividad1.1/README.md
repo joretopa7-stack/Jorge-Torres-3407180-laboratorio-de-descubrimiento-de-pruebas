@@ -7,7 +7,7 @@ Este proyecto contiene la resolución de las actividades de la Sesión 1 del Mó
 
 - `app/`: Contiene la lógica de producción (`operations.py` e `invoice.py`).
 - `tests/`: Contiene los archivos de prueba siguiendo las convenciones de Pytest.
-- `GUIA_RESUELTA.md`: Documento con las respuestas teóricas y análisis de los laboratorios.
+- `laboratorio_descubrimiento_Jorge_Torres`: Documento con las respuestas teóricas y análisis de los laboratorios.
 
 ## Requisitos
 
